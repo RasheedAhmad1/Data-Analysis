@@ -1,4 +1,4 @@
-# Data-Ananlysis
+# <center>Data-Ananlysis</center>
 Data Analysis with Real World projects
 
 ## 1. Text Data Analysis
