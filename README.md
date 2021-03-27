@@ -9,13 +9,13 @@ In this project I am going to perform **Data Analysis** on the text, the text is
 You can perform this on any type of text you desire, and also you can fetch the data from a *Youtube* desired video 
 ### Problem Statement
 A CSV file containg text data (comments) from a youtube video, the comments also contain different types of emojis.
-Perfrom **Sentiment Analysis, Emojis Analysis, etc.** Give a report of the *insights* and also *visualize* the insights  
+Perfrom **Sentiment Analysis, Emojis Analysis, Trending Youtube Tags Analysis etc.** Give a report of the *insights* and also *visualize* the insights  
 ### Sentiment Anaysis
 #### I) Positive Sentiment Analysis
 #### II) Neagative Sentiment Analysis
-#### III) Nuetral Sentiment Analysis
 ### Emoji Analysis
 ### Tags Analysis
+Analyse **trending tags** on *Youtube*
 ### Likes, Dislikes, Views Analysis
 ### Trending Analysis
 
