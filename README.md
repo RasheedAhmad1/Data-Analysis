@@ -4,21 +4,21 @@
 Data Analysis with Real World projects
 </div>
 
-## 1. Text Data Analysis
+## Project # 1: Text Data Analysis
 ### Problem Statement
-#### Sentiment Anaysis
-##### I) Positive Sentiment Analysis
-##### II) Neagative Sentiment Analysis
-##### III) Nuetral Sentiment Analysis
-#### Emoji Analysis
-#### Tags Analysis
-#### Likes, Dislikes, Views Analysis
-#### Trending Analysis
+### Sentiment Anaysis
+#### I) Positive Sentiment Analysis
+#### II) Neagative Sentiment Analysis
+#### III) Nuetral Sentiment Analysis
+### Emoji Analysis
+### Tags Analysis
+### Likes, Dislikes, Views Analysis
+### Trending Analysis
 
-## 2. Time Series Analysis
+## Project # 2: Time Series Analysis
 
-## 3. Geospatial Analysis
+## Project # 3: Geospatial Analysis
 
-## 4. Sales Data Analysis
+## Project # 4: Sales Data Analysis
 
-## 5. IPL Data Analysis
+## Project # 5: IPL Data Analysis
