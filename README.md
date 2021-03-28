@@ -14,10 +14,11 @@ Perfrom **Sentiment Analysis, Emojis Analysis, Trending Youtube Tags Analysis et
 #### I) Positive Sentiment Analysis
 #### II) Neagative Sentiment Analysis
 ### Emoji Analysis
-### Tags Analysis
-Analyse **trending tags** on *Youtube*...
-### Likes, Dislikes, Views Analysis
-### Trending Analysis
+Analyse **trending emogis** on the *Youtube*...
+### Trending Tags Analysis
+Analyse **trending tags** on the *Youtube*...
+### Likes, Dislikes, Views Relationship Analysis
+Analyse the relationship between **views, likes and dislikes** on the *Youtube*...
 
 ## Project # 2: Time Series Analysis
 
