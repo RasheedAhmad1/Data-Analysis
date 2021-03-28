@@ -10,14 +10,14 @@ You can perform this on any type of text you desire, and also you can fetch the 
 ### Problem Statement
 A CSV file containg text data (comments) from a youtube video, the comments also contain different types of emojis.
 Perfrom **Sentiment Analysis, Emojis Analysis, Trending Youtube Tags Analysis etc.** Give a report of the *insights* and also *visualize* the insights  
-### Sentiment Anaysis
+### A) Sentiment Anaysis
 #### I) Positive Sentiment Analysis
 #### II) Neagative Sentiment Analysis
-### Emoji Analysis
+### B) Emoji Analysis
 Analyse **trending emogis** on the *Youtube*...
-### Trending Tags Analysis
+### C) Trending Tags Analysis
 Analyse **trending tags** on the *Youtube*...
-### Likes, Dislikes, Views Relationship Analysis
+### D) Likes, Dislikes, Views Relationship Analysis
 Analyse the relationship between **views, likes and dislikes** on the *Youtube*...
 
 ## Project # 2: Time Series Analysis
